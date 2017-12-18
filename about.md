@@ -8,8 +8,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+王柳盈
+厦门大学经济学院 应用统计硕士
 
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+这个blog仅用来督促自己学习。
