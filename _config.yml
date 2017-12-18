@@ -33,7 +33,7 @@ nav_lists:
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
- repository: WangLiuying/github.io #e.g. someone/someone.github.io
+ repository: WangLiuying/WangLiuying.github.io #e.g. someone/someone.github.io
  repository_tree: master #e.g. master
 
 ## Language & timezone ##
