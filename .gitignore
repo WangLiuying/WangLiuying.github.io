@@ -185,3 +185,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 *.Rmd
+.Rproj.user

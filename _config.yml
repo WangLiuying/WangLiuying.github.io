@@ -51,7 +51,8 @@ author:
   weibo: wwwliuying818 #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
-
+social:
+    
 ## Comment system (Disqus) ##
 disqus:
   # shortname:  #the Disqus shortname for the site
