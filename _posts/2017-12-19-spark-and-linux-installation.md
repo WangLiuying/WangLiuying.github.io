@@ -133,7 +133,7 @@ linux解压通过命令
 -   vi默认只读模式打开，可以用上下左右移动光标，移到需编辑位置按`i`启动编辑模式，修改完用`esc`返回只读模式；
 -   全部改完后，在只读模式下输入`:q`退出，`:q!`不保存强制退出，`:w`保存，':wq'保存并退出。
 
-![环境变量配置](./pic/2017-12-20-1.png)
+![环境变量配置](https://github.com/WangLiuying/WangLiuying.github.io/blob/master/_posts/pic/2017-12-20-1.png?raw=true)
 
 配置如上图
 
