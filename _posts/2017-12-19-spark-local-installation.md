@@ -1,3 +1,10 @@
+---
+layout: post
+title: Spark本地版-Win10+虚拟机linux
+tags: spark 
+categories: spark
+---
+
 Spark本地版-Win10+虚拟机linux
 ================
 

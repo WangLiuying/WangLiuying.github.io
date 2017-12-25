@@ -1,3 +1,10 @@
+---
+layout: post
+title: 虚拟机+Linux安装
+tags: linux 
+categories: linux
+---
+
 虚拟机+Linux安装
 ================
 
